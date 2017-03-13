@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build -t prinsmike/caddy .
+docker build -t prinsmike/customcaddy .

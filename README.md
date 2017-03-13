@@ -31,4 +31,3 @@ docker run -d --name caddy \
 - prometheus
 - ratelimit
 - search
-- upload
