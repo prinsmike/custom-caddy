@@ -1,0 +1,6 @@
+[Unit]
+Description=Check if the customcaddy container is running
+
+[Service]
+Type=oneshot
+ExecStart=/home/core/bin/check-caddy.sh
