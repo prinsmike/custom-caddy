@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 docker run -d --name customcaddy \
 	-v $HOME/caddy/srv:/srv \
